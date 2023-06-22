@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+
+}
+.card{
+  border: dashed;
+  display: inline-block;
+  padding: 6px;
+}
